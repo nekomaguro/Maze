@@ -1,5 +1,6 @@
 #ifndef MAZE_H
 #define MAZE_H
+
 #include"default.h"
 
 class Maze : public Default

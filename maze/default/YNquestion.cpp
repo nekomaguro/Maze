@@ -1,4 +1,4 @@
-#include"standard.h"
+#include"../standard.h"
 #include"YNquestion.h"
 
 void YNQuestion::fullFill(char select){

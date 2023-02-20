@@ -1,4 +1,4 @@
-#include"standard.h"
+#include"../standard.h"
 #include"player.h"
 
 Player::Player(char input) : Object::Object(input){}

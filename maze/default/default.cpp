@@ -1,6 +1,6 @@
-#include"standard.h"
+#include"../standard.h"
 #include"default.h"
-#include"random.h"
+#include"../random.h"
 
 void Default::fullFill(char* input,int size,char select){
     for(int count=0;count<size;count++){

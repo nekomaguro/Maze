@@ -1,4 +1,4 @@
-#include"standard.h"
+#include"../standard.h"
 #include"buf.h"
 
 Buf::Buf(int xLeng,int yleng){

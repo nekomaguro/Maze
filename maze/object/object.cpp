@@ -1,4 +1,4 @@
-#include"standard.h"
+#include"../standard.h"
 #include"Object.h"
 
 Object::Object(char input){

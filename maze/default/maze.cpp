@@ -1,6 +1,6 @@
-#include"standard.h"
+#include"../standard.h"
 #include"maze.h"
-#include"random.h"
+#include"../random.h"
 
 Maze::Maze(int n){
     length = n;

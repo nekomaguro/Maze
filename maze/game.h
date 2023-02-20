@@ -1,16 +1,16 @@
 #ifndef GAME_H
 #define GAME_H
 
-#include"default.h"
-#include"maze.h"
+#include"default/default.h"
+#include"default/maze.h"
 #include"print.h"
 #include"random.h"
-#include"buf.h"
-#include"Object.h"
-#include"player.h"
-#include"YNquestion.h"
+#include"default/buf.h"
+#include"object/Object.h"
+#include"object/player.h"
+#include"default/YNquestion.h"
 #include"const.h"
-#include"option.h"
+#include"default/option.h"
 
 #define mazeNumber 31
 #define mazeLengthMax 999
