@@ -9,6 +9,11 @@ int main(){
         if(setvbuf(stdout,stdout_buf,_IOFBF,sizeof(stdout_buf)) != 0){
             throw std::runtime_error("stream error");
         }
+
+        Random random;
+
+        Game newGame;
+        
     }
     catch(std::runtime_error error){
         printf("%s\n",error.what());
@@ -18,11 +23,6 @@ int main(){
         printf("%s\n",error.what());
         exit(EXIT_FAILURE);
     }
-
-
-    Random random;
-
-    Game newGame;
     
     return 0;
 }
