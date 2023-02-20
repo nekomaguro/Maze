@@ -1,0 +1,2 @@
+@echo off
+g++ maze/main.cpp maze/game.cpp  maze/print.cpp maze/random.cpp maze/default/default.cpp maze/default/buf.cpp maze/default/maze.cpp maze/default/option.cpp maze/default/YNquestion.cpp maze/object/object.cpp maze/object/player.cpp -o maze

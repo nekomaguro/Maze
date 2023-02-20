@@ -1,1 +1,0 @@
-g++ main.cpp game.cpp  print.cpp random.cpp default/default.cpp default/buf.cpp default/maze.cpp default/option.cpp default/YNquestion.cpp object/object.cpp object/player.cpp
